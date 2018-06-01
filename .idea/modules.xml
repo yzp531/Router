@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnnotationDemo.iml" filepath="$PROJECT_DIR$/AnnotationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apt/apt.iml" filepath="$PROJECT_DIR$/apt/apt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaPoet/javaPoet.iml" filepath="$PROJECT_DIR$/javaPoet/javaPoet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router-annotation/router-annotation.iml" filepath="$PROJECT_DIR$/router-annotation/router-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router-api/router-api.iml" filepath="$PROJECT_DIR$/router-api/router-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router-compiler/router-compiler.iml" filepath="$PROJECT_DIR$/router-compiler/router-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-adisplay-impl/spi-adisplay-impl.iml" filepath="$PROJECT_DIR$/spi-adisplay-impl/spi-adisplay-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-bdisplay-impl/spi-bdisplay-impl.iml" filepath="$PROJECT_DIR$/spi-bdisplay-impl/spi-bdisplay-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-interface/spi-interface.iml" filepath="$PROJECT_DIR$/spi-interface/spi-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewFinder-annotation/viewFinder-annotation.iml" filepath="$PROJECT_DIR$/viewFinder-annotation/viewFinder-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewFinder-compiler/viewFinder-compiler.iml" filepath="$PROJECT_DIR$/viewFinder-compiler/viewFinder-compiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewfinder/viewfinder.iml" filepath="$PROJECT_DIR$/viewfinder/viewfinder.iml" />
+    </modules>
+  </component>
+</project>

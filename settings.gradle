@@ -1,0 +1,1 @@
+include ':app', ':apt', ':viewFinder-annotation', ':viewFinder-compiler', ':viewfinder', ':javaPoet', ':router-annotation', ':router-compiler', ':spi-interface', ':spi-adisplay-impl', ':spi-bdisplay-impl', ':router-api'
